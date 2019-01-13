@@ -36,5 +36,5 @@ the main scripts. <br>
 There are some comments that allow the user to better understand the code meaning and (eventual) usage. <br>
 Hope it's clear enough.
 
-The "developer",
+The "developer", <br>
 E. Ghelfi
